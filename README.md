@@ -8,7 +8,7 @@ I'm a 2nd-year Electrical Engineering student building production-style embedded
 ## Quick stats
 - 📍 Kuwait — open to remote & international internships (Spring–Summer 2026)  
 - 🔭 Current flagship project: **ESP32-C3 Modular Wireless Embedded Control System (MWECS)** — custom PCB, triple-regulator power system, USB-C + ESD, proof-of-concept wireless actuator control.  
-- 💼 Founder: **Fisca.app** (SaaS finance tracker) — product & system design experience.  
+- 💼 Founder: [Fisca.app](https://fisca.app) (SaaS finance tracker) — product & system design experience.  
 - ⚡ Recruiting targets: **Semiconductors (SoC/VLSI), IoT / Edge, Chip Design, Embedded Systems.**
 
 ---
@@ -25,7 +25,7 @@ I'm a 2nd-year Electrical Engineering student building production-style embedded
 ### Fisca.app — finance tracking SaaS
 **Role:** Founder (product + technical lead)  
 **What I learned:** System design, user auth (Supabase), real-time sync, PDF reports, database syncing, web design, typescript, deployment & product iteration. This is my first shipped product and my primary experience shipping full-stack systems.  
-**Links:** https://fisca.app
+**Links:** [Fisca.app](https://fisca.app)
 
 ---
 
@@ -51,7 +51,7 @@ Relevant coursework: Circuits, Digital Systems, Signals & Systems, Embedded Prog
 ---
 
 ## Want to work together / contact
-- LinkedIn: https://linkedin.com/in/badrobtel  
+- LinkedIn: [badrobtel](https://linkedin.com/in/badrobtel)  
 - Email: badr@obtel.org 
 
 ---
