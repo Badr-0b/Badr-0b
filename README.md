@@ -40,7 +40,7 @@ I'm a 2nd-year Electrical Engineering student building production-style embedded
 ## Education
 **BSc Electrical Engineering** — <!-- University name -->  
 Expected graduation: 2028  
-Relevant coursework: Circuits, Digital Systems, Signals & Systems, Embedded Programming.
+Relevant coursework: Linear circuit analysis theory & lab / Circuits, Digital Systems, Signals & Systems, Embedded Programming. (soon)
 
 ---
 
@@ -61,4 +61,4 @@ If you want an intern who already understands PCB manufacturability, basic power
 
 ---
 
-*Last updated: 19 September, 2025*
+*Last updated: 5 November, 2025*
