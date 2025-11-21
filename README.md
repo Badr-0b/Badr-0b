@@ -1,5 +1,5 @@
 # Hey — I'm Badr 👋  
-**Electrical Engineering undergrad • Embedded Systems • IoT • Hardware-Software Co-Design**
+**Electrical Engineering undergrad • Embedded Systems • Semiconductors • IoT • Hardware-Software Co-Design**
 
 I'm a 2nd-year Electrical Engineering student building production-style embedded hardware and full-stack projects. I ship real systems end-to-end: schematic → PCB → firmware → cloud. I care about power integrity, modular hardware design, and hardware-software co-design for IoT, robotics, and edge AI.
 
@@ -38,7 +38,7 @@ I'm a 2nd-year Electrical Engineering student building production-style embedded
 ---
 
 ## Education
-**BSc Electrical Engineering** — <!-- University name -->  
+**BSc Electrical Engineering** — AUM  
 Expected graduation: 2028  
 Relevant coursework: Linear circuit analysis theory & lab / Circuits, Digital Systems, Signals & Systems, Embedded Programming. (soon)
 
@@ -61,4 +61,4 @@ If you want an intern who already understands PCB manufacturability, basic power
 
 ---
 
-*Last updated: 5 November, 2025*
+*Last updated: 22 November, 2025*
