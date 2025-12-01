@@ -51,7 +51,7 @@ Relevant coursework: Linear circuit analysis theory & lab / Circuits, Calculus (
 ---
 
 ## Want to work together / contact
-- LinkedIn: [badrobtel](https://linkedin.com/in/badrobtel)
+- [LinkedIn](https://linkedin.com/in/badrobtel)
 - [Portfolio (notion)](https://www.notion.so/Portfolio-2aa8fcbea80780b3aa30f6baca431946?source=copy_link)
 - Email: badr@obtel.org 
 
