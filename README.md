@@ -40,7 +40,7 @@ I'm a 2nd-year Electrical Engineering student building production-style embedded
 ## Education
 **BSc Electrical Engineering** — AUM  
 Expected graduation: 2028  
-Relevant coursework: Linear circuit analysis theory & lab / Circuits, Digital Systems, Signals & Systems, Embedded Programming. (soon)
+Relevant coursework: Linear circuit analysis theory & lab / Circuits, Calculus (I, II, III),  | Digital Systems, Signals & Systems, Embedded Programming. (soon)
 
 ---
 
@@ -51,7 +51,8 @@ Relevant coursework: Linear circuit analysis theory & lab / Circuits, Digital Sy
 ---
 
 ## Want to work together / contact
-- LinkedIn: [badrobtel](https://linkedin.com/in/badrobtel)  
+- LinkedIn: [badrobtel](https://linkedin.com/in/badrobtel)
+- [Portfolio (notion)](https://www.notion.so/Portfolio-2aa8fcbea80780b3aa30f6baca431946?source=copy_link)
 - Email: badr@obtel.org 
 
 ---
@@ -61,4 +62,4 @@ If you want an intern who already understands PCB manufacturability, basic power
 
 ---
 
-*Last updated: 22 November, 2025*
+*Last updated: 1 December, 2025*
