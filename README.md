@@ -18,6 +18,7 @@ Based in Kuwait. Open to remote internships and international roles for Spring a
 - Peripherals: GPIO, PWM, SPI, I2C, UART, Wi-Fi, BLE
 
 **Software**
+- C, Verilog
 - TypeScript, React, Next.js
 - Python, SQL, Supabase
 - Git, deployment workflows
