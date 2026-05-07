@@ -32,9 +32,9 @@ Custom PCB built around the ESP32-C3 Mini-1 module. Triple regulator architectur
 Schematic capture for an STM32N6-based board. Power rails, peripheral interfacing, and component selection in KiCad.
 
 ### ASIC design projects
-Two coursework ASIC projects: one analog, one at the logic-gate level. Write-ups in the linked portfolio.
+Two ASIC projects: one analog, one at the logic-gate level. Write-ups in the linked portfolio.
 
-### Feneris
+### [REDACTED]
 Personal finance SaaS. Founder and sole engineer. Built auth, database, real-time sync, PDF report generation, and deployment. Stack: TypeScript, Supabase. Live at https://feneris.app.
 
 ## Looking for
