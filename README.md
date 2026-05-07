@@ -1,65 +1,51 @@
-# Hey — I'm Badr 👋  
-**Electrical Engineering undergrad • Embedded Systems • Semiconductors • IoT • Hardware-Software Co-Design**
+# Badr Obtel
 
-I'm a 2nd-year Electrical Engineering student building production-style embedded hardware and full-stack projects. I ship real systems end-to-end: schematic → PCB → firmware → cloud. I care about power integrity, modular hardware design, and hardware-software co-design for IoT, robotics, and edge AI.
+2nd-year Electrical Engineering student at AUM (Honors, Dean's List). I design embedded hardware and ship software. Focus areas: PCB design, embedded firmware, and ASIC/VLSI.
 
----
+Based in Kuwait. Open to remote internships and international roles for Spring and Summer 2026.
 
-## Quick stats
-- 📍 Kuwait — open to remote & international internships (Spring–Summer 2026)  
-- 🔭 Current flagship project: **ESP32-C3 Modular Wireless Embedded Control System (MWECS)** — custom PCB, triple-regulator power system, USB-C + ESD, proof-of-concept wireless actuator control.  
-- 💼 Founder: [Fisca.app](https://fisca.app) (SaaS finance tracker) — product & system design experience.  
-- ⚡ Recruiting targets: **Semiconductors (SoC/VLSI), IoT / Edge, Chip Design, Embedded Systems.**
+## What I do
 
----
+**Hardware**
+- PCB design in KiCad: schematic capture, layout, BOM, fab-ready Gerbers
+- Embedded boards around ESP32 and STM32
+- Power subsystem design, ESD protection, USB-C interfacing
+- ASIC design at analog and logic-gate levels
 
-## Featured projects
+**Firmware**
+- C and C++ on ESP32 (C3) and STM32
+- FreeRTOS basics, PlatformIO, Arduino core
+- Peripherals: GPIO, PWM, SPI, I2C, UART, Wi-Fi, BLE
 
-### ESP32-C3 Modular Wireless Embedded Control System — **MWECS**
-**What it is:** A modular embedded control platform built around a raw **ESP32-C3 Mini-1** SoC module. Designed for real-world actuator/sensor interfacing with focus on power integrity, manufacturability, and scalable I/O.  
-**Tech & highlights:** KiCad schematics & PCB, triple regulator architecture (2×5V rails, 1×3.3V), USB-C 2.0 input, ESD protection, GPIO breakouts, Wi-Fi + BLE for IoT/real-time control.  
-**Status:** PCB design complete
+**Software**
+- TypeScript, React, Next.js
+- Python, SQL, Supabase
+- Git, deployment workflows
 
----
+## Projects
 
-### Fisca.app — finance tracking SaaS
-**Role:** Founder (product + technical lead)  
-**What I learned:** System design, user auth (Supabase), real-time sync, PDF reports, database syncing, web design, typescript, deployment & product iteration. This is my first shipped product and my primary experience shipping full-stack systems.  
-**Links:** [Fisca.app](https://fisca.app)
+### MWECS: ESP32-C3 Modular Wireless Embedded Control System
+Custom PCB built around the ESP32-C3 Mini-1 module. Triple regulator architecture (two 5V rails, one 3.3V), USB-C 2.0 input with ESD protection, GPIO breakouts. Designed for actuator and sensor interfacing over Wi-Fi and BLE. PCB design complete.
 
----
+### STM32N6 schematic project
+Schematic capture for an STM32N6-based board. Power rails, peripheral interfacing, and component selection in KiCad.
 
-## Skills (practical, job-ready)
-**Hardware & EDA:** KiCad, PCB design, Gerbers, Gerber review, BOM, pick-and-place, power supply design, ESD protection, component selection.  
-**Embedded & Firmware:** ESP32 (C3), C/C++, FreeRTOS basics, PlatformIO/Arduino, GPIO, PWM.
-**Software & Cloud:** Python, Git, React basics, Supabase, SQL, Next.js.  
-**Other:** Hardware-software co-design, system architecture, manufacturability mindset.
+### ASIC design projects
+Two coursework ASIC projects: one analog, one at the logic-gate level. Write-ups in the linked portfolio.
 
----
+### Feneris
+Personal finance SaaS. Founder and sole engineer. Built auth, database, real-time sync, PDF report generation, and deployment. Stack: TypeScript, Supabase. Live at https://feneris.app.
 
-## Education
-**BSc Electrical Engineering** — AUM  
-Expected graduation: 2028  
-Relevant coursework: Linear circuit analysis theory & lab / Circuits, Calculus (I, II, III),  | Digital Systems, Signals & Systems, Embedded Programming. (soon)
+## Looking for
 
----
+Internships in embedded systems, semiconductors, IoT, or edge hardware where I get real ownership of PCB, firmware, power, or validation work. Not ticket-pushing.
 
-## What I'm looking for
-- **Internships (Spring–Summer 2026)** in embedded systems, semiconductor/chip design, IoT, or edge hardware.  
-- Roles that offer **real hardware responsibility**: PCB design, firmware, power subsystem, or hardware validation.  
-- Open to remote/hybrid or companies with in-person internship including visa support.
----
+## Contact
 
-## Want to work together / contact
-- [LinkedIn](https://linkedin.com/in/badrobtel)
-- [Portfolio (notion)](https://www.notion.so/Portfolio-2aa8fcbea80780b3aa30f6baca431946?source=copy_link)
-- Email: badr@obtel.org 
+- LinkedIn: https://linkedin.com/in/badrobtel
+- Portfolio: https://www.notion.so/Portfolio-2aa8fcbea80780b3aa30f6baca431946
+- Email: badr@obtel.org
 
 ---
 
-## Quick note to recruiters / engineers
-If you want an intern who already understands PCB manufacturability, basic power design, and can own an end-to-end embedded feature (hardware + firmware), DM me. I’ll prioritize opportunities that give hands-on hardware responsibility.
-
----
-
-*Last updated: 1 December, 2025*
+*Updated May 2026*
