@@ -35,7 +35,7 @@ Schematic capture for an STM32N6-based board. Power rails, peripheral interfacin
 Two ASIC projects: one analog, one at the logic-gate level. Write-ups in the linked portfolio.
 
 ### [REDACTED]
-Personal finance SaaS. Founder and sole engineer. Built auth, database, real-time sync, PDF report generation, and deployment. Stack: TypeScript, Supabase. Live at https://feneris.app.
+Personal finance SaaS. Founder and sole engineer. Built auth, database, real-time sync, PDF report generation, and deployment. Stack: TypeScript, Supabase. Live at [REDACTED].
 
 ## Looking for
 
