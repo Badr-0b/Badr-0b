@@ -32,8 +32,8 @@ Based in Kuwait. Open to remote internships and international roles in embedded 
 
 ## Experience
 
-### Software Engineering Intern, DevOps: Lear Corporation, E-Systems
-*July 2026 to Aug 2026 | Sala Al Jadida, Morocco*
+### Software Engineering Intern, Embedded DevOps: Lear Corporation, E-Systems
+*July 2026 to Aug 2026*
 
 Build and release engineering for automotive electronic-systems validation.
 - Re-architected a PowerShell hardware-in-the-loop test runner to execute cases in parallel, eliminating a hang that stalled validation runs for up to 5.5 hours and cutting a full pass to roughly 5 minutes.
